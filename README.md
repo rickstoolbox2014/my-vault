@@ -7,5 +7,5 @@ Features:
 - uses rsync;
 - snapshot allows quick restoring a directory or file from the vault to its original location;
 - previous versions of a file are kept;
-- automatic purging of expired old versions (days of freshness is configurable);
+- automatic purging of expired old versions (days of freshness is configurable per directory);
 - it lacks a nice GUI for selecting previous versions of file, yet.
